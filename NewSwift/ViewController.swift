@@ -10,6 +10,7 @@ import UIKit
 import Alamofire
 class ViewController: UIViewController {
 
+    @IBOutlet weak var redView: UIView!
     override func viewDidLoad() {
         super.viewDidLoad()
         
