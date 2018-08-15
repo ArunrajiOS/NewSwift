@@ -34,6 +34,7 @@
                     </view>
                     <connections>
                         <outlet property="redView" destination="FtF-MW-7Nw" id="2R7-rh-EqB"/>
+                        <outlet property="yellowViw" destination="ZQF-CR-bm7" id="C1S-jc-b0q"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

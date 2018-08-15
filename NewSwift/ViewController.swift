@@ -11,6 +11,9 @@ import Alamofire
 class ViewController: UIViewController {
 
     @IBOutlet weak var redView: UIView!
+    
+    @IBOutlet weak var yellowViw: UIView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
